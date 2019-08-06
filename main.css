@@ -1,3 +1,9 @@
+*{
+  font-family: arial;
+   test-align: left;
+}
+
 h1 {
     color: blue;
+    text-align: centre;
     }
